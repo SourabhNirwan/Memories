@@ -1,2 +1,3 @@
 # Memories
-MERN project
+
+creating memories 
